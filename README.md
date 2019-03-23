@@ -1,6 +1,6 @@
 ## CSE Capstone Team 4 Website (4 Fun) 
 
-[Website Link](https://cse-vr-capstone-team-4.github.io/4-Fun/)
+[Website Link](https://github.com/cse-vr-capstone-team-4/Island-Warfare)
 
 ### Description of project
 
